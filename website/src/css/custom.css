@@ -142,12 +142,10 @@ html[data-theme=dark] {
     margin-bottom: 20px;
 }
 
-.twitterProfile,
-.githubProfile {
+.twitterProfile {
     margin-left: 10px;
 }
-.twitterProfile svg,
-.githubProfile svg {
+.twitterProfile svg {
     width: 23px;
     color: #1B98E4;
     transform: translate(0, 3px);
